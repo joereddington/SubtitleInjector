@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <!--Created on 2/10/2015 at 20:30:58 by co:1.2/su:1.9/ma:1.6/ti:1.1-->
+    <metadata>
+      <ttm:title>
+        GREAT BRITISH BAKE OFF: EXTRA SL - HDS151039
+      </ttm:title>
+      <ttm:copyright>
+        Ericsson 2015
+      </ttm:copyright>
+    </metadata>
+    <styling>
+      <style id="s2" style="s0" tts:color="cyan" />
+      <style id="s1" style="s0" tts:color="lime" />
+      <style id="s3" style="s0" tts:color="yellow" />
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:02.00" id="p0" end="00:00:03.88">It was the Bake Off semifinal.</p>
+      <p begin="00:00:03.88" id="p1" end="00:00:05.36">SOFTLY: <span tts:color="cyan">Whaa...</span></p>
+      <p begin="00:00:05.36" id="p2" end="00:00:06.80">The pressure was on...</p>
+      <p style="s1" begin="00:00:06.80" id="p3" end="00:00:09.28">Never bake again.</p>
+      <p begin="00:00:09.28" id="p4" end="00:00:11.00">..and the gloves were off...</p>
+      <p style="s2" begin="00:00:11.00" id="p5" end="00:00:13.36">If you're going to do a macaron,<br />do it properly.</p>
+      <p begin="00:00:13.36" id="p6" end="00:00:14.72">MEL GASPS</p>
+      <p begin="00:00:14.72" id="p7" end="00:00:18.40">..in a tent chock-full of drama.<br /><span tts:color="lime">Will you remind me to breathe?</span></p>
+      <p begin="00:00:21.08" id="p8" end="00:00:24.16">LAUGHTER</p>
+      <p begin="00:00:24.16" id="p9" end="00:00:26.44">Oh! Time for An Extra Slice.</p>
+      <p begin="00:00:26.44" id="p10" end="00:00:28.64">CHEERING</p>
+      <p begin="00:00:49.60" id="p11" end="00:00:51.80">CHEERING</p>
+      <p begin="00:00:54.12" id="p12" end="00:00:57.20">Hello, and welcome to the show.</p>
+      <p begin="00:00:57.20" id="p13" end="00:01:00.60">It was a chocolate-filled<br />semifinal week in the tent</p>
+      <p begin="00:01:00.60" id="p14" end="00:01:02.64">and what a dramatic one.</p>
+      <p begin="00:01:02.64" id="p15" end="00:01:06.64">Certainly Paul knew just<br />how important the semifinal was.</p>
+      <p style="s2" begin="00:01:06.64" id="p16" end="00:01:09.84">This is their last chance<br />to get into the final next week.</p>
+      <p begin="00:01:11.92" id="p17" end="00:01:13.96">Thanks for that, Paul(!)</p>
+      <p begin="00:01:13.96" id="p18" end="00:01:16.72">We now know who the three<br />Bake Off finalists are,</p>
+      <p begin="00:01:16.72" id="p19" end="00:01:19.24">and the title<br />could go to any one of them.</p>
+      <p begin="00:01:19.24" id="p20" end="00:01:23.40">Yes, it's congratulations<br />to Ian, Nadiya and Tamal.</p>
+      <p begin="00:01:23.40" id="p21" end="00:01:25.68">CHEERING</p>
+      <p begin="00:01:29.36" id="p22" end="00:01:33.72">Sadly, the semifinal<br />also saw Flora twirl her last tuile</p>
+      <p begin="00:01:33.72" id="p23" end="00:01:35.68">and leave the tent.</p>
+      <p begin="00:01:35.68" id="p24" end="00:01:39.08">The good news is that<br />she'll be joining us later.</p>
+      <p begin="00:01:39.08" id="p25" end="00:01:43.28">She's just finishing off her bake by<br />adding the final decorative touches</p>
+      <p begin="00:01:43.28" id="p26" end="00:01:45.88">of macaron, amaretti,<br />truffles, caramel,</p>
+      <p begin="00:01:45.88" id="p27" end="00:01:49.28">pomegranate, edible gold<br />and a bit of piping.</p>
+      <p begin="00:01:49.28" id="p28" end="00:01:53.12">Meanwhile, after cutting back<br />on the size of her glasses of sherry,</p>
+      <p begin="00:01:53.12" id="p29" end="00:01:56.56">Mary's determined<br />to let her hair down after the final.</p>
+      <p style="s1" begin="00:01:56.56" id="p30" end="00:01:58.36">Next week, I'll have big ones.</p>
+      <p begin="00:02:01.08" id="p31" end="00:02:02.56">Back to this week,</p>
+      <p begin="00:02:02.56" id="p32" end="00:02:07.12">and Paul exclusively revealed the<br />name of his new fragrance for men.</p>
+      <p style="s2" begin="00:02:07.12" id="p33" end="00:02:09.36">Pure Bake Off magic.</p>
+      <p begin="00:02:11.12" id="p34" end="00:02:13.08">As ever, we'll be steeling ourselves</p>
+      <p begin="00:02:13.08" id="p35" end="00:02:15.52">to take a look<br />at what you've been baking at home.</p>
+      <p begin="00:02:15.52" id="p36" end="00:02:17.00">And I'm delighted to see</p>
+      <p begin="00:02:17.00" id="p37" end="00:02:19.88">that we've got an entire studio<br />full of chocolatiers.</p>
+      <p begin="00:02:19.88" id="p38" end="00:02:21.96">Let's have a look at your bakes.</p>
+      <p begin="00:02:21.96" id="p39" end="00:02:23.84">CHEERING</p>
+      <p begin="00:02:31.84" id="p40" end="00:02:35.88">I was a bit worried we'd turn into<br />the Choccy Horror Show.</p>
+      <p begin="00:02:35.88" id="p41" end="00:02:39.40">But they look fantastic.<br />We'll be tasting a few in a bit.</p>
+      <p begin="00:02:39.40" id="p42" end="00:02:41.68">But now, let's meet tonight's panel.</p>
+      <p begin="00:02:41.68" id="p43" end="00:02:45.16">First up, it's one of Britain's<br />most acclaimed Michelin-starred chefs</p>
+      <p begin="00:02:45.16" id="p44" end="00:02:47.88">who says he's fanatical<br />about vanilla ice cream.</p>
+      <p begin="00:02:47.88" id="p45" end="00:02:50.84">It's Tom Aikens. <span tts:color="cyan">Hello.</span></p>
+      <p begin="00:02:50.84" id="p46" end="00:02:52.88">CHEERING</p>
+      <p begin="00:02:53.96" id="p47" end="00:02:57.80">Next, it's a man who once confessed<br />he used to smell his mum's shoes</p>
+      <p begin="00:02:57.80" id="p48" end="00:03:00.32">when she came home<br />from working in a chocolate factory.</p>
+      <p begin="00:03:00.32" id="p49" end="00:03:01.72">It's Danny Baker. <span tts:color="yellow">Thank you.</span></p>
+      <p begin="00:03:01.72" id="p50" end="00:03:03.76">CHEERING<br /><span tts:color="yellow">Thank you.</span></p>
+      <p begin="00:03:06.32" id="p51" end="00:03:09.68">And a comedian who says he doesn't<br />believe in eating chocolate</p>
+      <p begin="00:03:09.68" id="p52" end="00:03:11.76">within the context of pastry.</p>
+      <p begin="00:03:11.76" id="p53" end="00:03:13.24">It's Josh Widdicombe.</p>
+      <p begin="00:03:13.24" id="p54" end="00:03:14.68">CHEERING</p>
+      <p begin="00:03:14.68" id="p55" end="00:03:16.32">CHEERING DROWNS SPEECH</p>
+      <p begin="00:03:19.36" id="p56" end="00:03:22.80">So, Danny, your mum worked<br />in a chocolate factory. <span tts:color="yellow">Yes, she did.</span></p>
+      <p begin="00:03:22.80" id="p57" end="00:03:24.20">One point.</p>
+      <p begin="00:03:24.20" id="p58" end="00:03:27.52">That still doesn't really explain<br />why you used to smell her shoes.</p>
+      <p style="s3" begin="00:03:27.52" id="p59" end="00:03:30.28">Because she had special work shoes,<br />they were Dr Scholl.</p>
+      <p style="s3" begin="00:03:30.28" id="p60" end="00:03:31.92">She only worked in those.</p>
+      <p style="s3" begin="00:03:31.92" id="p61" end="00:03:34.56">And when she used to come home<br />with those in her bag,</p>
+      <p style="s3" begin="00:03:34.56" id="p62" end="00:03:36.64">if she hadn't brought home<br />any chocolate...</p>
+      <p style="s3" begin="00:03:36.64" id="p63" end="00:03:39.00">Usually, when she was working<br />on violet creams...</p>
+      <p style="s3" begin="00:03:39.00" id="p64" end="00:03:42.32">This wasn't three weeks ago.<br />This was when I was about six.</p>
+      <p style="s3" begin="00:03:42.32" id="p65" end="00:03:44.56">I used to get the soles of her shoes<br />and think,</p>
+      <p style="s3" begin="00:03:44.56" id="p66" end="00:03:46.60">"What must it be like<br />to work there?"</p>
+      <p begin="00:03:46.60" id="p67" end="00:03:47.72">HE SNIFFS</p>
+      <p style="s3" begin="00:03:47.72" id="p68" end="00:03:49.88">She went on to work<br />in a biscuit factory after that.</p>
+      <p style="s3" begin="00:03:49.88" id="p69" end="00:03:51.28">I used to smell her pockets then,</p>
+      <p style="s3" begin="00:03:51.28" id="p70" end="00:03:53.40">because she used to put biscuits<br />in her pockets.</p>
+      <p style="s3" begin="00:03:53.40" id="p71" end="00:03:55.84">I know. I'm an old fetishist.</p>
+      <p style="s3" begin="00:03:55.84" id="p72" end="00:03:57.96">But, yeah, I did smell her shoes.</p>
+      <p begin="00:03:57.96" id="p73" end="00:04:01.08">Now, Tom, what's the most chocolaty<br />chocolate dessert you serve</p>
+      <p begin="00:04:01.08" id="p74" end="00:04:03.84">in your Michelin-starred<br />restaurants?</p>
+      <p style="s2" begin="00:04:03.84" id="p75" end="00:04:06.00">Very difficult, but I made a...</p>
+      <p style="s2" begin="00:04:06.00" id="p76" end="00:04:08.88">This holiday, I made a chocolate<br />birthday cake for someone.</p>
+      <p style="s2" begin="00:04:08.88" id="p77" end="00:04:13.88">And it was 20 thin chocolate crepes<br />sandwiched between chocolate mousse,</p>
+      <p style="s2" begin="00:04:13.88" id="p78" end="00:04:16.56">covered in a ganache,<br />sprinkled on a load of praline,</p>
+      <p style="s2" begin="00:04:16.56" id="p79" end="00:04:20.56">and then a big bowl<br />of golden caramel sponge sugar.</p>
+      <p begin="00:04:20.56" id="p80" end="00:04:24.24">Would you mind doing one of those<br />for me for later? <span tts:color="cyan">Absolutely.</span></p>
+      <p style="s2" begin="00:04:24.24" id="p81" end="00:04:26.08">No problem.</p>
+      <p begin="00:04:26.08" id="p82" end="00:04:27.88">What's the weirdest thing, Josh,</p>
+      <p begin="00:04:27.88" id="p83" end="00:04:30.68">you've ever encountered<br />made out of chocolate?</p>
+      <p style="s1" begin="00:04:30.68" id="p84" end="00:04:34.32">Well, once, when I was a kid,<br />my parents went to Brussels</p>
+      <p style="s1" begin="00:04:34.32" id="p85" end="00:04:37.68">and you know there's a statue<br />of the weeing boy?</p>
+      <p style="s2" begin="00:04:37.68" id="p86" end="00:04:39.12"><span tts:color="yellow">Yes. </span>This sounds weird.</p>
+      <p style="s1" begin="00:04:39.12" id="p87" end="00:04:41.52">It WAS weird,<br />cos they brought me back</p>
+      <p style="s1" begin="00:04:41.52" id="p88" end="00:04:44.12">a statue of the boy weeing<br />made of chocolate.</p>
+      <p style="s1" begin="00:04:44.12" id="p89" end="00:04:46.52">But I'd got no knowledge<br />of the statue.</p>
+      <p style="s1" begin="00:04:47.68" id="p90" end="00:04:51.20">So, out of context,<br />it felt like a very weird gift.</p>
+      <p begin="00:04:52.64" id="p91" end="00:04:54.16">OK, let's treat ourselves</p>
+      <p begin="00:04:54.16" id="p92" end="00:04:57.04">to a look at the baking<br />you've been doing at home.</p>
+      <p begin="00:04:57.04" id="p93" end="00:04:58.88">What I love best about your pictures</p>
+      <p begin="00:04:58.88" id="p94" end="00:05:02.20">is that it means your bakes<br />aren't here in the studio,</p>
+      <p begin="00:05:02.20" id="p95" end="00:05:04.20">where we might have to eat them.</p>
+      <p begin="00:05:05.20" id="p96" end="00:05:09.68">Now, Lynne has been busy recreating<br />bakes from inside the tent.</p>
+      <p begin="00:05:09.68" id="p97" end="00:05:12.72">Here's Lynne's version<br />of Tamal's charlotte russe.</p>
+      <p begin="00:05:12.72" id="p98" end="00:05:14.68">AUDIENCE: <span tts:color="lime">Ooooh!</span></p>
+      <p begin="00:05:14.68" id="p99" end="00:05:16.24">That's amazing, isn't it?</p>
+      <p begin="00:05:16.24" id="p100" end="00:05:19.40">And even more amazing<br />when you see it next to a penny.</p>
+      <p begin="00:05:22.56" id="p101" end="00:05:24.80">Lynne also has the solution<br />for those of us</p>
+      <p begin="00:05:24.80" id="p102" end="00:05:28.44">who wanted to eat all three layers<br />of Ian's triple-tiered cheesecake.</p>
+      <p begin="00:05:31.40" id="p103" end="00:05:34.60">She's also made a miniature version<br />of Flora's macaron,</p>
+      <p begin="00:05:34.60" id="p104" end="00:05:37.08">but she sneezed<br />and now she can't find them.</p>
+      <p begin="00:05:38.92" id="p105" end="00:05:42.08">Now, as Rugby World Cup fever<br />sweeps the nation,</p>
+      <p begin="00:05:42.08" id="p106" end="00:05:44.40">Alexander was inspired<br />to bake eclairs</p>
+      <p begin="00:05:44.40" id="p107" end="00:05:48.40">as a glorious celebration of<br />the flags of all competing nations.</p>
+      <p begin="00:05:48.40" id="p108" end="00:05:50.64">So, let's see who's taking part.</p>
+      <p begin="00:05:50.64" id="p109" end="00:05:52.52">So...</p>
+      <p begin="00:05:54.04" id="p110" end="00:05:55.68">Er...</p>
+      <p begin="00:05:55.68" id="p111" end="00:05:57.20">Scotland.</p>
+      <p begin="00:05:57.20" id="p112" end="00:06:00.24">And moving on... Um...</p>
+      <p begin="00:06:00.24" id="p113" end="00:06:03.40">Eileen from Wiltshire<br />made a birthday cake for her son</p>
+      <p begin="00:06:03.40" id="p114" end="00:06:05.92">in the shape of his teddy bear -<br />here's the teddy.</p>
+      <p begin="00:06:07.00" id="p115" end="00:06:09.48">Ahhh! All soft, cuddly and warm.</p>
+      <p begin="00:06:09.48" id="p116" end="00:06:11.32">And here's Eileen's cake.</p>
+      <p begin="00:06:16.72" id="p117" end="00:06:18.96">Less sort of teddy bear,</p>
+      <p begin="00:06:18.96" id="p118" end="00:06:20.88">more Teddy Krueger, really.</p>
+      <p begin="00:06:22.24" id="p119" end="00:06:25.64">Finally, Rachel in Dubai<br />made a cake for her friend Annabelle</p>
+      <p begin="00:06:25.64" id="p120" end="00:06:28.60">inspired by Annabelle's cat, Tigs -<br />here's Tigs.</p>
+      <p begin="00:06:29.76" id="p121" end="00:06:31.32">Isn't he cute?</p>
+      <p begin="00:06:31.32" id="p122" end="00:06:32.60">And let's see how accurately</p>
+      <p begin="00:06:32.60" id="p123" end="00:06:35.88">Annabelle managed<br />to capture his likeness.</p>
+      <p begin="00:06:35.88" id="p124" end="00:06:38.04">Oh, come on!</p>
+      <p style="s3" begin="00:06:38.04" id="p125" end="00:06:39.44">No!</p>
+      <p begin="00:06:41.68" id="p126" end="00:06:45.04">We love seeing your photos, the<br />masterpieces and the disaster-pieces.</p>
+      <p begin="00:06:45.04" id="p127" end="00:06:47.40">So, get sending. Details below.</p>
+      <p begin="00:06:47.40" id="p128" end="00:06:50.76">And thanks to all of this week's<br />home bakers. Thank you.</p>
+      <p begin="00:06:50.76" id="p129" end="00:06:53.08">CHEERING</p>
+      <p begin="00:06:54.28" id="p130" end="00:06:56.68">APPLAUSE DROWNS SPEECH</p>
+      <p begin="00:06:56.68" id="p131" end="00:07:01.12">Back to the tent now,<br />and turn the stress-o-meter to 11</p>
+      <p begin="00:07:01.12" id="p132" end="00:07:05.52">as we remind ourselves what happened<br />in the penultimate week in the tent.</p>
+      <p begin="00:07:07.64" id="p133" end="00:07:12.08">It was the Bake Off semis...<br /><span tts:color="lime">Semifinals!</span></p>
+      <p begin="00:07:12.08" id="p134" end="00:07:16.12">..with just four bakers<br />battling for a place in the final.</p>
+      <p style="s3" begin="00:07:16.12" id="p135" end="00:07:18.36">Everything has to be tickety-boo.</p>
+      <p begin="00:07:18.36" id="p136" end="00:07:20.72">The deceptively simple Signature...</p>
+      <p style="s1" begin="00:07:20.72" id="p137" end="00:07:23.48">Just another day,<br />it's just another chocolate tart.</p>
+      <p begin="00:07:23.48" id="p138" end="00:07:25.96">..had to be simply perfect.</p>
+      <p style="s2" begin="00:07:25.96" id="p139" end="00:07:28.92">It's not good.<br />It's overbaked, dry as a bone.</p>
+      <p begin="00:07:28.92" id="p140" end="00:07:31.76">The bakers were staggered<br />by the Technical.</p>
+      <p style="s1" begin="00:07:31.76" id="p141" end="00:07:34.28">What?! Don't go!</p>
+      <p begin="00:07:34.28" id="p142" end="00:07:36.36">A speedy chocolate souffle.</p>
+      <p style="s3" begin="00:07:37.48" id="p143" end="00:07:40.48">Make souffle?<br />I think I'll eat my hat.</p>
+      <p begin="00:07:40.48" id="p144" end="00:07:42.80">And in the nail-biting Showstopper...</p>
+      <p style="s1" begin="00:07:42.80" id="p145" end="00:07:45.08">Oh, come on. That's not funny.</p>
+      <p begin="00:07:45.08" id="p146" end="00:07:49.16">..they went all out to impress<br />with a three-D chocolate centrepiece.</p>
+      <p style="s3" begin="00:07:49.16" id="p147" end="00:07:51.20">We asked for something spectacular.</p>
+      <p style="s3" begin="00:07:51.20" id="p148" end="00:07:54.04">We certainly have got<br />something spectacular.</p>
+      <p begin="00:07:54.04" id="p149" end="00:07:57.52">Nadiya won Star Baker<br />for a third time.</p>
+      <p begin="00:07:57.52" id="p150" end="00:08:00.24">And, sadly, Flora left the tent.</p>
+      <p begin="00:08:02.08" id="p151" end="00:08:05.28">Which means Tamal, Nadiya and Ian</p>
+      <p begin="00:08:05.28" id="p152" end="00:08:10.76">will battle it out in the 2015<br />Great British Bake Off final.</p>
+      <p begin="00:08:12.40" id="p153" end="00:08:14.16">CHEERING</p>
+      <p begin="00:08:16.60" id="p154" end="00:08:19.96">Now, that was definitely<br />the tensest tent so far.</p>
+      <p begin="00:08:19.96" id="p155" end="00:08:22.40">Danny, do you enjoy the tension,<br />or...?</p>
+      <p style="s3" begin="00:08:22.40" id="p156" end="00:08:24.72">That was an extraordinary episode<br />this week.</p>
+      <p style="s3" begin="00:08:24.72" id="p157" end="00:08:26.36">There's everything there.</p>
+      <p style="s3" begin="00:08:26.36" id="p158" end="00:08:28.40">And that five minutes<br />with the souffle thing,</p>
+      <p style="s3" begin="00:08:28.40" id="p159" end="00:08:31.68">it shows you, you don't need<br />a darkened studio, tense music.</p>
+      <p style="s3" begin="00:08:31.68" id="p160" end="00:08:35.44">If you can get a little tent,<br />baking, and a sunny day,</p>
+      <p style="s3" begin="00:08:35.44" id="p161" end="00:08:38.60">and still have that breathless,<br />Hitchcockian...</p>
+      <p style="s3" begin="00:08:38.60" id="p162" end="00:08:43.40">It was. It was absolutely<br />terrifying. <span tts:color="cyan">Drama. </span>It really was.</p>
+      <p style="s3" begin="00:08:43.40" id="p163" end="00:08:46.12">Yeah, it was absolutely fantastic<br />television.</p>
+      <p style="s1" begin="00:08:46.12" id="p164" end="00:08:49.28">It felt finally like when I have to<br />make something in the kitchen.</p>
+      <p style="s1" begin="00:08:49.28" id="p165" end="00:08:50.76"><span tts:color="cyan">Stressful. </span>Yeah.</p>
+      <p style="s1" begin="00:08:50.76" id="p166" end="00:08:53.80">That was me making cheese on toast,<br />that's what that was.</p>
+      <p style="s1" begin="00:08:53.80" id="p167" end="00:08:56.12">Cos they had the two paperclips</p>
+      <p style="s1" begin="00:08:56.12" id="p168" end="00:09:00.52">and I like the thought of them<br />going, "Should I put them in?"</p>
+      <p style="s3" begin="00:09:02.52" id="p169" end="00:09:05.36">And when she was left<br />at the beginning on her own,</p>
+      <p style="s3" begin="00:09:05.36" id="p170" end="00:09:06.88">you thought, this is harsh.</p>
+      <p begin="00:09:06.88" id="p171" end="00:09:11.16">This is the first time that they'd<br />ever done that on Bake Off. <span tts:color="yellow">Yeah.</span></p>
+      <p begin="00:09:11.16" id="p172" end="00:09:13.92">You know, that someone had to start -<br />Flora, in this case -</p>
+      <p begin="00:09:13.92" id="p173" end="00:09:16.40">making something, the souffle,<br />by herself.</p>
+      <p begin="00:09:16.40" id="p174" end="00:09:19.60">I was watching it, for a minute,<br />I thought they were making</p>
+      <p begin="00:09:19.60" id="p175" end="00:09:22.28">the Scottish contestants<br />bake independently.</p>
+      <p begin="00:09:23.72" id="p176" end="00:09:26.68">Meanwhile, Paul and Mary decided<br />to ring the changes</p>
+      <p begin="00:09:26.68" id="p177" end="00:09:28.92">by pretending to be judges<br />on The Voice.</p>
+      <p begin="00:09:33.00" id="p178" end="00:09:35.12">Now, we saw how relieved Ian was.</p>
+      <p begin="00:09:35.12" id="p179" end="00:09:37.48">Do you think<br />he deserved to stay over Flora?</p>
+      <p style="s3" begin="00:09:37.48" id="p180" end="00:09:39.52">When you get to a semifinal,<br />obviously,</p>
+      <p style="s3" begin="00:09:39.52" id="p181" end="00:09:42.48">and it's not like the early rounds<br />where someone's really rotten</p>
+      <p style="s3" begin="00:09:42.48" id="p182" end="00:09:44.12">and you can say, well, they're gone.</p>
+      <p style="s3" begin="00:09:44.12" id="p183" end="00:09:45.84">I thought Ian was going to go.</p>
+      <p style="s3" begin="00:09:45.84" id="p184" end="00:09:48.20">And Flora actually won<br />one of the rounds.</p>
+      <p style="s3" begin="00:09:48.20" id="p185" end="00:09:50.88">I think you've really got to mess up<br />on the other two to go home,</p>
+      <p style="s3" begin="00:09:50.88" id="p186" end="00:09:52.28">and she didn't, really.</p>
+      <p style="s1" begin="00:09:52.28" id="p187" end="00:09:54.80">No, it was a huge injustice.<br />He made a well.</p>
+      <p style="s1" begin="00:09:54.80" id="p188" end="00:09:59.32">That's not a bake. <span tts:color="yellow">No.<br /></span>That's what you do on a year out.</p>
+      <p style="s1" begin="00:10:03.16" id="p189" end="00:10:04.68">I...</p>
+      <p style="s1" begin="00:10:04.68" id="p190" end="00:10:07.88">I don't know. I'm going to throw it<br />out there. <span tts:color="cyan">Go on, throw it.</span></p>
+      <p style="s1" begin="00:10:07.88" id="p191" end="00:10:09.96">Is chocolate baking?</p>
+      <p begin="00:10:09.96" id="p192" end="00:10:12.00"><span tts:color="cyan">Is it?<br /></span>AUDIENCE: <span tts:color="yellow">Oooh.</span></p>
+      <p style="s1" begin="00:10:12.00" id="p193" end="00:10:14.44">Or is it moulding chocolate?<br />Do you know what I mean?</p>
+      <p begin="00:10:14.44" id="p194" end="00:10:17.20">Well, Ian's well had biscuits<br />round it, didn't it?</p>
+      <p style="s1" begin="00:10:17.20" id="p195" end="00:10:19.56">We've all got biscuits round stuff.</p>
+      <p style="s3" begin="00:10:19.56" id="p196" end="00:10:23.40">Exactly. Using that logic, Jo,<br />a cup of tea is baking.</p>
+      <p begin="00:10:24.72" id="p197" end="00:10:29.68">Well, I'm only trying to offer<br />an alternative view.</p>
+      <p begin="00:10:32.08" id="p198" end="00:10:35.72">Let's turn to Nadiya now,<br />who equalled Ian's achievement</p>
+      <p begin="00:10:35.72" id="p199" end="00:10:39.04">by being crowned Star Baker<br />for a third time.</p>
+      <p begin="00:10:39.04" id="p200" end="00:10:43.28">Do you agree, Tom,<br />that Nadiya deserved Star Baker?</p>
+      <p style="s2" begin="00:10:43.28" id="p201" end="00:10:46.00">I think, overall,<br />she's been quite consistent.</p>
+      <p style="s2" begin="00:10:46.00" id="p202" end="00:10:48.40">Her chocolate tart,<br />I thought, was exceptional.</p>
+      <p style="s2" begin="00:10:48.40" id="p203" end="00:10:50.64">I actually do one as well,<br />so chocolate and caramel,</p>
+      <p style="s2" begin="00:10:50.64" id="p204" end="00:10:53.04">and I thought it could have been<br />almost as good as mine.</p>
+      <p style="s2" begin="00:10:53.04" id="p205" end="00:10:54.56">And then the peacock...</p>
+      <p style="s2" begin="00:10:54.56" id="p206" end="00:10:56.96">The peacock itself, I thought,<br />was extraordinary.</p>
+      <p style="s2" begin="00:10:56.96" id="p207" end="00:10:59.12">All the levels of detail,<br />the different tastes,</p>
+      <p style="s2" begin="00:10:59.12" id="p208" end="00:11:01.80">the different crunch,<br />the different levels of chocolate,</p>
+      <p style="s2" begin="00:11:01.80" id="p209" end="00:11:05.28">you know, from piped into spread<br />into mousse and everything.</p>
+      <p style="s2" begin="00:11:05.28" id="p210" end="00:11:07.32">I mean, it was perfect, for me.<br />Brilliant.</p>
+      <p style="s3" begin="00:11:07.32" id="p211" end="00:11:10.04">I saw her on week one... Like when<br />my dad used to watch Miss World.</p>
+      <p style="s3" begin="00:11:10.04" id="p212" end="00:11:12.28">He'd say... As soon as<br />they all came out, he'd say,</p>
+      <p style="s3" begin="00:11:12.28" id="p213" end="00:11:15.04">"Miss Sri Lanka, she wins it,"<br />and I did that with her.</p>
+      <p style="s3" begin="00:11:15.04" id="p214" end="00:11:17.00">So I've got a vested interest here,</p>
+      <p style="s3" begin="00:11:17.00" id="p215" end="00:11:19.08">but I think she's smart,<br />she's funny,</p>
+      <p style="s3" begin="00:11:19.08" id="p216" end="00:11:22.20">she knows how to quip to camera,<br />and she's quite, quite brilliant.</p>
+      <p style="s1" begin="00:11:22.20" id="p217" end="00:11:24.40">Yeah, she's great, isn't she?</p>
+      <p style="s1" begin="00:11:24.40" id="p218" end="00:11:27.32">I just think<br />she's timing her run perfectly.</p>
+      <p style="s1" begin="00:11:27.32" id="p219" end="00:11:30.08">I think the more difficult it's got,<br />the better she's got. <span tts:color="yellow">Yeah.</span></p>
+      <p begin="00:11:30.08" id="p220" end="00:11:33.68">I thought that the peacock<br />Nadiya made was really impressive,</p>
+      <p begin="00:11:33.68" id="p221" end="00:11:37.64">cos I can spend hours in the kitchen<br />just looking for a Penguin.</p>
+      <p begin="00:11:39.44" id="p222" end="00:11:40.96">Now, I don't know if you noticed,</p>
+      <p begin="00:11:40.96" id="p223" end="00:11:43.92">but Mel happened to be wearing<br />a T-shirt with a peacock on it,</p>
+      <p begin="00:11:43.92" id="p224" end="00:11:45.60">although if you didn't know that,</p>
+      <p begin="00:11:45.60" id="p225" end="00:11:49.80">you'd be forgiven for thinking<br />this bit of unseen footage a bit odd.</p>
+      <p style="s1" begin="00:11:49.80" id="p226" end="00:11:52.24">Nadiya, if you need inspiration<br />throughout the day...</p>
+      <p style="s2" begin="00:11:52.24" id="p227" end="00:11:53.84">We know where to go!</p>
+      <p begin="00:12:01.08" id="p228" end="00:12:05.92">I thought I'd have a go at making<br />a spectacular three-D centrepiece,</p>
+      <p begin="00:12:05.92" id="p229" end="00:12:07.64">and I found my inspiration</p>
+      <p begin="00:12:07.64" id="p230" end="00:12:11.68">by asking myself what would I like<br />to see in the middle of my table</p>
+      <p begin="00:12:11.68" id="p231" end="00:12:14.56">that was made of chocolate?</p>
+      <p begin="00:12:14.56" id="p232" end="00:12:17.04">And the answer was...</p>
+      <p begin="00:12:20.40" id="p233" end="00:12:22.56">See, that... <span tts:color="yellow">That's good. </span>Yeah.</p>
+      <p style="s3" begin="00:12:22.56" id="p234" end="00:12:25.96">That's good.<br /><span tts:color="white">That's gorgeous, isn't it? </span>Beautiful.</p>
+      <p begin="00:12:25.96" id="p235" end="00:12:28.68">The thing is, I'm no good<br />at doing those twiddly little bits</p>
+      <p begin="00:12:28.68" id="p236" end="00:12:31.36">that add the finishing touch<br />to a creation.</p>
+      <p begin="00:12:31.36" id="p237" end="00:12:35.96">If only there was a baker here<br />to add that little something extra.</p>
+      <p begin="00:12:37.68" id="p238" end="00:12:39.76">CHEERING</p>
+      <p begin="00:12:45.40" id="p239" end="00:12:47.44">Flora, thank you.</p>
+      <p begin="00:12:47.44" id="p240" end="00:12:51.68">We'll see you in a bit. That is<br />brilliant. Thank you so much. What...</p>
+      <p begin="00:12:51.68" id="p241" end="00:12:53.64">I'm proud.</p>
+      <p begin="00:12:53.64" id="p242" end="00:12:55.12">CHEERING</p>
+      <p begin="00:12:55.12" id="p243" end="00:12:58.68">And she's just popping it in<br />the freezer, like she normally does.</p>
+      <p begin="00:12:58.68" id="p244" end="00:13:01.16">Now, let's talk about Tamal.</p>
+      <p begin="00:13:01.16" id="p245" end="00:13:04.04">After struggling with time<br />in previous challenges,</p>
+      <p begin="00:13:04.04" id="p246" end="00:13:06.92">he took a simple approach<br />to his Signature</p>
+      <p begin="00:13:06.92" id="p247" end="00:13:09.16">with his chocolate New York pie.</p>
+      <p begin="00:13:09.16" id="p248" end="00:13:14.44">Was it brave of Tamal to go simple<br />in the semifinal Signature, Tom?</p>
+      <p style="s2" begin="00:13:14.44" id="p249" end="00:13:17.36">You know what?<br />Sometimes, being simple can work.</p>
+      <p style="s2" begin="00:13:17.36" id="p250" end="00:13:18.80">He's not trying to be magical,</p>
+      <p style="s2" begin="00:13:18.80" id="p251" end="00:13:21.12">he's not trying to be<br />overly-creative.</p>
+      <p style="s2" begin="00:13:21.12" id="p252" end="00:13:23.96">And the dishes that he's putting up,<br />you know, they all work.</p>
+      <p style="s2" begin="00:13:23.96" id="p253" end="00:13:26.92">They're not sort of the whistles<br />and bells that Flora has done.</p>
+      <p style="s2" begin="00:13:26.92" id="p254" end="00:13:29.48">But they're very simple,<br />technically been very good.</p>
+      <p style="s2" begin="00:13:29.48" id="p255" end="00:13:31.28">And, you know, they all love them.</p>
+      <p style="s3" begin="00:13:31.28" id="p256" end="00:13:33.52">If anyone had a game plan,<br />he certainly did.</p>
+      <p style="s3" begin="00:13:33.52" id="p257" end="00:13:37.32">I think once you've got through<br />the first round, the Signature,</p>
+      <p style="s3" begin="00:13:37.32" id="p258" end="00:13:39.96">if someone has slightly<br />had a wobble there,</p>
+      <p style="s3" begin="00:13:39.96" id="p259" end="00:13:41.36">all you've got to do is think,</p>
+      <p style="s3" begin="00:13:41.36" id="p260" end="00:13:43.88">"I've got to be consistent now<br />and I'm through."</p>
+      <p style="s3" begin="00:13:43.88" id="p261" end="00:13:46.44">And anything he's got in reserve,<br />quite rightly,</p>
+      <p style="s3" begin="00:13:46.44" id="p262" end="00:13:47.88">he's saved for the final.</p>
+      <p style="s2" begin="00:13:47.88" id="p263" end="00:13:51.28"><span tts:color="lime">You've got to bear in mind,<br />there's levels of simple. </span>Yeah.</p>
+      <p begin="00:13:51.28" id="p264" end="00:13:53.92"><span tts:color="lime">He made a chocolate bell tower.<br /></span><span tts:color="yellow">Yeah.</span></p>
+      <p begin="00:13:53.92" id="p265" end="00:13:59.00"><span tts:color="lime">That is not... That's not simple.<br /></span><span tts:color="yellow">Yeah. </span>No, that is true.</p>
+      <p begin="00:13:59.00" id="p266" end="00:14:03.36">OK, let's move on to Ian,<br />who had a close shave this week</p>
+      <p begin="00:14:03.36" id="p267" end="00:14:06.80">when the judges placed him<br />in the bottom two with Flora.</p>
+      <p begin="00:14:06.80" id="p268" end="00:14:10.36">For his Signature,<br />he made a chocolate and bay tart.</p>
+      <p begin="00:14:10.36" id="p269" end="00:14:14.08">And, obviously being Ian,<br />he'd grown the bay leaf himself.</p>
+      <p begin="00:14:14.08" id="p270" end="00:14:16.76">Paul loved the mirror on Ian's glaze.</p>
+      <p begin="00:14:16.76" id="p271" end="00:14:19.52">Well, he loves mirrors of any kind,<br />to be honest.</p>
+      <p begin="00:14:20.60" id="p272" end="00:14:24.72">He didn't like the flavours<br />of Ian's bay-infused caramel.</p>
+      <p begin="00:14:24.72" id="p273" end="00:14:27.68">Mary couldn't taste the bay leaf<br />at all.</p>
+      <p begin="00:14:27.68" id="p274" end="00:14:30.92">Tom, bay leaves and caramel,<br />is that a good idea?</p>
+      <p style="s2" begin="00:14:30.92" id="p275" end="00:14:32.16">Bay leaves and caramel.</p>
+      <p style="s2" begin="00:14:32.16" id="p276" end="00:14:35.80">I think if he infused it maybe<br />in the cream, it may have worked,</p>
+      <p style="s2" begin="00:14:35.80" id="p277" end="00:14:38.92">but I just don't think<br />it was a particularly good idea.</p>
+      <p style="s2" begin="00:14:38.92" id="p278" end="00:14:40.96">I think bay is very, very subtle.</p>
+      <p style="s2" begin="00:14:40.96" id="p279" end="00:14:42.72">Rosemary, cos he likes his rosemary.</p>
+      <p style="s2" begin="00:14:42.72" id="p280" end="00:14:46.12">I think rosemary would have worked<br />a little bit better than bay.</p>
+      <p begin="00:14:46.12" id="p281" end="00:14:48.64"><span tts:color="cyan">So, I think the bay<br />was a bit of a boo for me. </span>Yeah.</p>
+      <p begin="00:14:48.64" id="p282" end="00:14:51.44">Are you a fan<br />of herby sweet things, Danny? <span tts:color="yellow">No.</span></p>
+      <p style="s3" begin="00:14:51.44" id="p283" end="00:14:55.20">No, I cannot bear sweet and savoury<br />things together. I cannot bear them.</p>
+      <p style="s3" begin="00:14:55.20" id="p284" end="00:14:59.16"><span tts:color="lime">Salted caramel. Come on, Danny. </span>No,<br />no. <span tts:color="lime">Join the revolution. </span>Stop it.</p>
+      <p style="s2" begin="00:14:59.16" id="p285" end="00:15:02.28"><span tts:color="yellow">No, no. I simply... </span>Salted caramel<br />and praline. <span tts:color="yellow">..won't count...</span></p>
+      <p style="s3" begin="00:15:02.28" id="p286" end="00:15:05.60">No. All of this won't count<br />for anything when I come to power.</p>
+      <p style="s3" begin="00:15:05.60" id="p287" end="00:15:08.20">We're going to absolutely<br />put things down the middle,</p>
+      <p style="s3" begin="00:15:08.20" id="p288" end="00:15:10.04">and my absolute number one...</p>
+      <p style="s3" begin="00:15:10.04" id="p289" end="00:15:13.08">I know I'm going to lose everybody<br />here, except for Mary Berry.</p>
+      <p style="s3" begin="00:15:13.08" id="p290" end="00:15:15.04">..is chilli in things.</p>
+      <p begin="00:15:15.04" id="p291" end="00:15:18.00"><span tts:color="yellow">Stop it, stop it, stop it.<br /></span><span tts:color="lime">I'm with you on that.</span></p>
+      <p style="s3" begin="00:15:18.00" id="p292" end="00:15:21.96">A prawn cocktail, ice cream,<br />them little red flakes. No.</p>
+      <p style="s3" begin="00:15:21.96" id="p293" end="00:15:24.32">I don't like them.<br />I don't like curry. I'm like Mary.</p>
+      <p begin="00:15:24.32" id="p294" end="00:15:26.76"><span tts:color="cyan">I agree with you.<br /></span>HIGH-PITCHED: <span tts:color="lime">You don't like curry?!</span></p>
+      <p style="s1" begin="00:15:26.76" id="p295" end="00:15:30.20"><span tts:color="yellow">No, I don't like curry. Stop it.<br /></span>Why are you having a go at me?!</p>
+      <p style="s3" begin="00:15:30.20" id="p296" end="00:15:33.48">Because you said I don't like curry<br />in that high-pitched register</p>
+      <p style="s3" begin="00:15:33.48" id="p297" end="00:15:35.60">like I don't like children.</p>
+      <p style="s1" begin="00:15:35.60" id="p298" end="00:15:38.92"><span tts:color="yellow">I... </span>I prefer curry to children.</p>
+      <p style="s1" begin="00:15:38.92" id="p299" end="00:15:42.60"><span tts:color="yellow">Well, there... </span>Only one of them<br />comes with a naan bread.</p>
+      <p style="s3" begin="00:15:42.60" id="p300" end="00:15:45.52">You're number one on the list.<br />I don't know.</p>
+      <p style="s3" begin="00:15:45.52" id="p301" end="00:15:48.84">I think that, which is<br />a slight overlap with this,</p>
+      <p style="s3" begin="00:15:48.84" id="p302" end="00:15:52.08">of this idea now that anything<br />goes in anything - no, it doesn't.</p>
+      <p style="s1" begin="00:15:52.08" id="p303" end="00:15:54.20">Look, I'm a big fan of Ian,</p>
+      <p style="s1" begin="00:15:54.20" id="p304" end="00:15:56.72">but I think he needs to stop<br />using his garden.</p>
+      <p style="s1" begin="00:15:56.72" id="p305" end="00:16:00.60">I think he's trying to get<br />his garden to be a tax expense.</p>
+      <p style="s1" begin="00:16:01.84" id="p306" end="00:16:05.08">So he's having to include it<br />as much as possible.</p>
+      <p begin="00:16:05.08" id="p307" end="00:16:08.56">Let's leave the pressure<br />of the Bake Off tent for a moment</p>
+      <p begin="00:16:08.56" id="p308" end="00:16:10.84">to look at<br />some of the chocolate creations</p>
+      <p begin="00:16:10.84" id="p309" end="00:16:12.48">brought along by our audience.</p>
+      <p begin="00:16:12.48" id="p310" end="00:16:15.88">And if anyone's brought<br />a perfectly shaped orange</p>
+      <p begin="00:16:15.88" id="p311" end="00:16:19.68">crafted out of chocolate,<br />we'll know you're cheating.</p>
+      <p begin="00:16:19.68" id="p312" end="00:16:21.20">Terry!</p>
+      <p begin="00:16:21.20" id="p313" end="00:16:22.76">OK?</p>
+      <p begin="00:16:22.76" id="p314" end="00:16:26.20">So, Louise and Lindsay,<br />where are you?</p>
+      <p begin="00:16:26.20" id="p315" end="00:16:28.92">Hello! Tell us what you've got there.</p>
+      <p style="s1" begin="00:16:28.92" id="p316" end="00:16:33.00">A chocolate and coffee cake.<br />It's made into the gingham altar.</p>
+      <p begin="00:16:33.00" id="p317" end="00:16:36.24">And you've even got<br />little photos there... <span tts:color="lime">We have.</span></p>
+      <p begin="00:16:36.24" id="p318" end="00:16:39.80">..of the four semifinalists<br />in front of their bakes.</p>
+      <p begin="00:16:39.80" id="p319" end="00:16:42.24">What's the table actually made of,<br />did you say?</p>
+      <p begin="00:16:42.24" id="p320" end="00:16:46.00"><span tts:color="lime">It's a chocolate and coffee cake.<br /></span>Oh, that's my kind of furniture.</p>
+      <p begin="00:16:47.28" id="p321" end="00:16:51.52">Thank you so much for bringing that<br />along. That looks great. Hilary...</p>
+      <p style="s2" begin="00:16:51.52" id="p322" end="00:16:53.28">That's me.</p>
+      <p begin="00:16:53.28" id="p323" end="00:16:55.92">There you are. What have you made<br />out of chocolate, Hilary?</p>
+      <p style="s2" begin="00:16:55.92" id="p324" end="00:16:59.52">I brought Stanley.<br />He's my chocolate cocker spaniel.</p>
+      <p begin="00:16:59.52" id="p325" end="00:17:01.16">Oh, my word.</p>
+      <p style="s3" begin="00:17:01.16" id="p326" end="00:17:03.36">There's a touch of The Godfather<br />about it.</p>
+      <p begin="00:17:03.36" id="p327" end="00:17:07.16">Absolutely. Be great<br />if he was a yorkie, wouldn't it?</p>
+      <p begin="00:17:08.60" id="p328" end="00:17:12.20">Thank you so much, Hilary.<br />Thanks for bringing that along.</p>
+      <p begin="00:17:12.20" id="p329" end="00:17:13.92">All right, Judy, where are you?</p>
+      <p begin="00:17:15.04" id="p330" end="00:17:18.48">Hi, Judy. Tell us about your bake.</p>
+      <p style="s2" begin="00:17:18.48" id="p331" end="00:17:20.84">This is a tribute<br />to one of my two kittens.</p>
+      <p style="s2" begin="00:17:20.84" id="p332" end="00:17:25.44">I've got two kittens,<br />Chica and Ramon. This is Chica.</p>
+      <p style="s2" begin="00:17:25.44" id="p333" end="00:17:28.00">I seem to spend half my life...</p>
+      <p style="s3" begin="00:17:28.00" id="p334" end="00:17:29.88">Oh, no!</p>
+      <p style="s2" begin="00:17:29.88" id="p335" end="00:17:31.72">..clearing up after them, so...</p>
+      <p begin="00:17:31.72" id="p336" end="00:17:35.08">I have to ask, what's the poo<br />made out of in the litter tray?</p>
+      <p style="s2" begin="00:17:35.08" id="p337" end="00:17:38.04">It's chocolate fondant.<br /><span tts:color="lime">Do you swear on your life? </span>Yeah.</p>
+      <p style="s3" begin="00:17:38.04" id="p338" end="00:17:40.32">As soon as I saw that cat's mouth,<br />I thought,</p>
+      <p style="s3" begin="00:17:40.32" id="p339" end="00:17:42.64">is it walking towards me<br />or walking away?</p>
+      <p begin="00:17:42.64" id="p340" end="00:17:44.08">LAUGHTER</p>
+      <p begin="00:17:44.08" id="p341" end="00:17:49.20">OK, Josh, can you go and get that<br />for us? <span tts:color="lime">He's fallen backwards.</span></p>
+      <p begin="00:17:49.20" id="p342" end="00:17:50.92">TOM: <span tts:color="cyan">He wants to lie down.</span></p>
+      <p begin="00:17:50.92" id="p343" end="00:17:53.68"><span tts:color="lime">I'm a bit worried about this.<br /></span>JUDY: <span tts:color="cyan">It's the lights.</span></p>
+      <p style="s2" begin="00:17:53.68" id="p344" end="00:17:55.60">He's melting.</p>
+      <p begin="00:17:55.60" id="p345" end="00:17:59.28">What's the cat...? Is the cat<br />made of chocolate? <span tts:color="cyan">Chocolate cake.</span></p>
+      <p begin="00:17:59.28" id="p346" end="00:18:02.96">Right, OK. <span tts:color="lime">Hold your plate out,<br />Danny. </span>Are you...? <span tts:color="yellow">If it...</span></p>
+      <p begin="00:18:02.96" id="p347" end="00:18:05.24">LAUGHTER</p>
+      <p style="s2" begin="00:18:05.24" id="p348" end="00:18:07.60">One poop or two?</p>
+      <p style="s3" begin="00:18:07.60" id="p349" end="00:18:11.20">If it didn't look so damned<br />authentic, it wouldn't be so bad.</p>
+      <p style="s1" begin="00:18:11.20" id="p350" end="00:18:13.56">He's going to fall off.<br />I don't know how to...</p>
+      <p begin="00:18:13.56" id="p351" end="00:18:14.88">Can you...?</p>
+      <p begin="00:18:14.88" id="p352" end="00:18:16.60">Ahhh!</p>
+      <p style="s1" begin="00:18:18.44" id="p353" end="00:18:20.04">Brilliant.</p>
+      <p begin="00:18:21.44" id="p354" end="00:18:23.84"><span tts:color="lime">What's this?<br /></span><span tts:color="cyan">What's the litter made out of?</span></p>
+      <p begin="00:18:23.84" id="p355" end="00:18:25.16">JUDY: <span tts:color="cyan">The litter is cookies.</span></p>
+      <p style="s2" begin="00:18:25.16" id="p356" end="00:18:27.20">Oreo cookies.<br /><span tts:color="white">TOM: </span>Ah, OK.</p>
+      <p begin="00:18:27.20" id="p357" end="00:18:30.48"><span tts:color="lime">Oh, great. </span>That is actually<br />a litter tray, that blue container.</p>
+      <p begin="00:18:30.48" id="p358" end="00:18:33.16"><span tts:color="cyan">It's a new one.<br />It's brand-new. </span>Is it?</p>
+      <p style="s2" begin="00:18:33.16" id="p359" end="00:18:34.52">I promise!</p>
+      <p begin="00:18:35.64" id="p360" end="00:18:37.24">Is it?</p>
+      <p style="s2" begin="00:18:38.64" id="p361" end="00:18:40.76">It's never been used!</p>
+      <p begin="00:18:40.76" id="p362" end="00:18:43.96">Judy, have you rinsed that out<br />this morning?</p>
+      <p begin="00:18:43.96" id="p363" end="00:18:46.60"><span tts:color="cyan">It's never been used, I promise.<br /></span>OK, all right.</p>
+      <p style="s3" begin="00:18:46.60" id="p364" end="00:18:49.72"><span tts:color="cyan">It's a bit crispy on the outside.<br /></span>It is a bit crispy on the outside.</p>
+      <p begin="00:18:49.72" id="p365" end="00:18:53.60">Look at Judy's face. She's...<br />She's smuggled something in there.</p>
+      <p style="s2" begin="00:18:53.60" id="p366" end="00:18:55.76">The sponge is very good.<br />The sponge is lovely.</p>
+      <p begin="00:18:55.76" id="p367" end="00:18:58.16">The sponge is very good.<br />Oh, that's good. <span tts:color="cyan">Very nice.</span></p>
+      <p begin="00:18:58.16" id="p368" end="00:19:00.04">So, thumbs up on that, then?</p>
+      <p begin="00:19:00.04" id="p369" end="00:19:03.40"><span tts:color="lime">Yeah. </span><span tts:color="cyan">Yeah. </span>Yeah, really good.<br />Well done. Well done, Judy.</p>
+      <p begin="00:19:08.52" id="p370" end="00:19:12.60">Time now to meet the baker<br />who always went the extra mile.</p>
+      <p begin="00:19:12.60" id="p371" end="00:19:16.60">Extra tuile on her brulee,<br />extra macaron on her cheesecakes</p>
+      <p begin="00:19:16.60" id="p372" end="00:19:19.76">and extra amaretti<br />on her frangipane tart.</p>
+      <p begin="00:19:19.76" id="p373" end="00:19:22.48">But she produced<br />some brilliant and beautiful bakes.</p>
+      <p begin="00:19:22.48" id="p374" end="00:19:24.96">Please give a warm welcome to Flora.</p>
+      <p begin="00:19:24.96" id="p375" end="00:19:26.60">CHEERING</p>
+      <p begin="00:19:39.52" id="p376" end="00:19:43.48">Congratulations<br />on getting to the semifinals.</p>
+      <p begin="00:19:43.48" id="p377" end="00:19:46.68">I mean, how different<br />was the atmosphere in the tent</p>
+      <p begin="00:19:46.68" id="p378" end="00:19:49.40">compared to previous weeks,<br />in the run-up?</p>
+      <p style="s1" begin="00:19:49.40" id="p379" end="00:19:51.72">There wasn't a lot of banter<br />going on.</p>
+      <p style="s1" begin="00:19:51.72" id="p380" end="00:19:54.56">There was kind of minimal chat<br />happening, which...</p>
+      <p begin="00:19:54.56" id="p381" end="00:19:56.48">So, it really changed, then?</p>
+      <p style="s1" begin="00:19:56.48" id="p382" end="00:20:00.20">Nothing like silence to put you<br />at ease, really. It wasn't great!</p>
+      <p begin="00:20:00.20" id="p383" end="00:20:01.48">Oh, gosh.</p>
+      <p begin="00:20:01.48" id="p384" end="00:20:03.84">Now, you were the youngest baker<br />in the tent</p>
+      <p begin="00:20:03.84" id="p385" end="00:20:05.92">and the youngest ever semifinalist.</p>
+      <p begin="00:20:05.92" id="p386" end="00:20:09.16">Did that put you<br />under extra pressure?</p>
+      <p style="s1" begin="00:20:10.20" id="p387" end="00:20:12.48">There were moments<br />when I felt my youth, yeah.</p>
+      <p style="s1" begin="00:20:12.48" id="p388" end="00:20:14.84">A lot of retro bakes happened<br />this series.</p>
+      <p style="s1" begin="00:20:14.84" id="p389" end="00:20:17.24">Still don't know<br />what an Arctic roll is,</p>
+      <p style="s1" begin="00:20:17.24" id="p390" end="00:20:20.76">which is not great,<br />considering, so...</p>
+      <p begin="00:20:20.76" id="p391" end="00:20:25.04">I sadly DO know what an Arctic roll<br />is. <span tts:color="yellow">I know. I know. </span>Yes.</p>
+      <p begin="00:20:25.04" id="p392" end="00:20:27.08">Well,<br />let's talk about chocolate week.</p>
+      <p begin="00:20:27.08" id="p393" end="00:20:29.16">Now, you started off<br />with your Signature -</p>
+      <p begin="00:20:29.16" id="p394" end="00:20:31.40">passion fruit and chocolate tart.</p>
+      <p begin="00:20:31.40" id="p395" end="00:20:35.84">Paul said it had split. <span tts:color="lime">Yeah.<br /></span>What actually happened?</p>
+      <p style="s1" begin="00:20:35.84" id="p396" end="00:20:38.40">I had to cook the passion fruit<br />layer for...</p>
+      <p style="s1" begin="00:20:38.40" id="p397" end="00:20:41.88">I mean, it was...it was, like,<br />five to ten minutes just to set it.</p>
+      <p style="s1" begin="00:20:41.88" id="p398" end="00:20:45.92">And I took my eye off the ball<br />and it just went over.</p>
+      <p style="s1" begin="00:20:45.92" id="p399" end="00:20:48.56">Trying to do too many things.</p>
+      <p style="s1" begin="00:20:48.56" id="p400" end="00:20:52.12">Which is really,<br />really uncharacteristic.</p>
+      <p begin="00:20:52.12" id="p401" end="00:20:56.32">Absolutely. <span tts:color="lime">Never happened.<br /></span>Well, you put some macaron on top.</p>
+      <p begin="00:20:56.32" id="p402" end="00:20:59.48">Let's see what Paul thought of those,<br />shall we?</p>
+      <p style="s2" begin="00:20:59.48" id="p403" end="00:21:02.12">If you're going to do a macaron,<br />do it properly.</p>
+      <p begin="00:21:02.12" id="p404" end="00:21:03.88">MEL GASPS</p>
+      <p style="s1" begin="00:21:03.88" id="p405" end="00:21:07.52">Oooh. <span tts:color="cyan">Nasty man. </span>Very true, though.<br />They were disgusting.</p>
+      <p style="s1" begin="00:21:07.52" id="p406" end="00:21:11.56">You know, you're running around and<br />you're doing so many things at once</p>
+      <p style="s1" begin="00:21:11.56" id="p407" end="00:21:13.48">that I didn't even taste them.</p>
+      <p style="s1" begin="00:21:13.48" id="p408" end="00:21:16.72">I think, had I tasted them, they<br />wouldn't have been near them, no.</p>
+      <p begin="00:21:16.72" id="p409" end="00:21:20.28">Well, you actually did brilliantly<br />with your chocolate souffle.</p>
+      <p begin="00:21:20.28" id="p410" end="00:21:22.16">You came first, didn't you? <span tts:color="lime">Yeah.</span></p>
+      <p begin="00:21:22.16" id="p411" end="00:21:26.96">And then your chocolate Showstopper<br />was your cocoa carousel.</p>
+      <p begin="00:21:26.96" id="p412" end="00:21:30.56">That didn't quite go to plan<br />in some ways, did it? <span tts:color="lime">No.</span></p>
+      <p begin="00:21:30.56" id="p413" end="00:21:31.88">Let's have a little look.</p>
+      <p style="s1" begin="00:21:41.64" id="p414" end="00:21:45.76">Yeah. I actually studied to be<br />an architect and stopped promptly.</p>
+      <p style="s1" begin="00:21:45.76" id="p415" end="00:21:49.48">That says it all, doesn't it?<br />Didn't really go to plan.</p>
+      <p begin="00:21:49.48" id="p416" end="00:21:52.92">Why did they break?<br />Were they just a bit overbaked?</p>
+      <p style="s1" begin="00:21:52.92" id="p417" end="00:21:56.88">Shortbread is not<br />a great wall builder, is it?</p>
+      <p begin="00:21:56.88" id="p418" end="00:21:59.92"><span tts:color="lime">I think the word "short" is...<br /></span>I don't know. In our house, it is.</p>
+      <p begin="00:22:00.92" id="p419" end="00:22:02.28">Let's just talk briefly</p>
+      <p begin="00:22:02.28" id="p420" end="00:22:05.60">about your little habit<br />of adding lots of extra twiddly bits.</p>
+      <p begin="00:22:05.60" id="p421" end="00:22:08.40">I mean,<br />I'd love to see your Christmas tree.</p>
+      <p style="s1" begin="00:22:09.92" id="p422" end="00:22:13.16">That starts planning a month before.<br />It's intense.</p>
+      <p style="s1" begin="00:22:13.16" id="p423" end="00:22:16.32">I think I was so panicked<br />about sitting in the tent</p>
+      <p style="s1" begin="00:22:16.32" id="p424" end="00:22:18.24">and having idle hands and going...</p>
+      <p style="s1" begin="00:22:18.24" id="p425" end="00:22:22.48">Watching a bake for 40 minutes is,<br />like, the worst situation to be in.</p>
+      <p style="s1" begin="00:22:22.48" id="p426" end="00:22:26.00">So, I thought, if it's in the oven<br />and I'm doing something else,</p>
+      <p style="s1" begin="00:22:26.00" id="p427" end="00:22:29.60">it's probably better,<br />my mind's on another thing.</p>
+      <p begin="00:22:29.60" id="p428" end="00:22:32.64">Well, you could have just made them<br />and put them in the bin.</p>
+      <p style="s1" begin="00:22:32.64" id="p429" end="00:22:35.12">Yeah. Very true.</p>
+      <p begin="00:22:35.12" id="p430" end="00:22:36.36">You know.</p>
+      <p begin="00:22:36.36" id="p431" end="00:22:38.00">What I particularly enjoyed</p>
+      <p begin="00:22:38.00" id="p432" end="00:22:41.84">was the wide variety of pained<br />expressions that you did in the tent.</p>
+      <p begin="00:22:41.84" id="p433" end="00:22:43.40">No, you had so many.</p>
+      <p begin="00:22:43.40" id="p434" end="00:22:46.20">It was marvellous.<br />Let's just have a little look.</p>
+      <p style="s1" begin="00:22:49.48" id="p435" end="00:22:50.52">Ah!</p>
+      <p style="s1" begin="00:22:52.00" id="p436" end="00:22:53.88">Oh, no!</p>
+      <p begin="00:22:53.88" id="p437" end="00:22:55.28">SHE GASPS</p>
+      <p style="s1" begin="00:22:57.24" id="p438" end="00:22:58.40">Ooooh.</p>
+      <p style="s1" begin="00:22:59.96" id="p439" end="00:23:01.24">Oh, that's so bad.</p>
+      <p style="s1" begin="00:23:02.64" id="p440" end="00:23:03.96">Sorry.</p>
+      <p style="s1" begin="00:23:06.24" id="p441" end="00:23:07.60">Ahh!</p>
+      <p begin="00:23:11.16" id="p442" end="00:23:13.24">CHEERING</p>
+      <p begin="00:23:16.80" id="p443" end="00:23:20.16">What's actually been the best thing<br />about being on Bake Off?</p>
+      <p style="s1" begin="00:23:20.16" id="p444" end="00:23:22.96">I met some pretty cracking people.</p>
+      <p style="s1" begin="00:23:22.96" id="p445" end="00:23:26.16">They were all great<br />and we had such a giggle doing it.</p>
+      <p style="s1" begin="00:23:26.16" id="p446" end="00:23:28.60">And I learnt a few things, yeah.</p>
+      <p style="s1" begin="00:23:28.60" id="p447" end="00:23:30.76">Souffle being kind of number one.</p>
+      <p begin="00:23:30.76" id="p448" end="00:23:33.16">Will you be doing more souffles?</p>
+      <p begin="00:23:33.16" id="p449" end="00:23:34.68"><span tts:color="lime">No. </span>No.</p>
+      <p begin="00:23:35.76" id="p450" end="00:23:37.96">Well, you've brought a bake along.</p>
+      <p begin="00:23:37.96" id="p451" end="00:23:40.60">Now, it didn't go quite as well<br />in the tent as you'd hoped, this,</p>
+      <p begin="00:23:40.60" id="p452" end="00:23:42.08">so you've had another crack at it.</p>
+      <p begin="00:23:42.08" id="p453" end="00:23:43.88"><span tts:color="lime">Yeah. </span>What have you brought us?</p>
+      <p style="s1" begin="00:23:43.88" id="p454" end="00:23:47.56">Made coconut and lemon relishes.</p>
+      <p begin="00:23:47.56" id="p455" end="00:23:50.32">Wow! That actually looks amazing.</p>
+      <p begin="00:23:50.32" id="p456" end="00:23:52.16">Guys, are you going to have a...?</p>
+      <p style="s3" begin="00:23:52.16" id="p457" end="00:23:54.20">When you've finished<br />the filming of this,</p>
+      <p style="s3" begin="00:23:54.20" id="p458" end="00:23:57.00">how long is it before you can bear<br />to put on an apron again</p>
+      <p style="s3" begin="00:23:57.00" id="p459" end="00:23:58.52">and just go into your own kitchen?</p>
+      <p style="s1" begin="00:23:58.52" id="p460" end="00:24:02.00">I had brownies on the kitchen table<br />by 10am the next day. <span tts:color="yellow">Did you?</span></p>
+      <p style="s1" begin="00:24:02.00" id="p461" end="00:24:06.12"><span tts:color="yellow">Well done. Well done, you. </span>Do you<br />do it in a tent in the garden?</p>
+      <p style="s1" begin="00:24:06.12" id="p462" end="00:24:07.80">It's essential!</p>
+      <p style="s1" begin="00:24:07.80" id="p463" end="00:24:09.88">Just popping out to make dinner!</p>
+      <p begin="00:24:09.88" id="p464" end="00:24:12.48">What do you think, Tom?<br /><span tts:color="cyan">I think it's beautiful.</span></p>
+      <p begin="00:24:12.48" id="p465" end="00:24:14.64"><span tts:color="lime">Thank you.<br /></span><span tts:color="cyan">I mean, it looks stunning.</span></p>
+      <p style="s2" begin="00:24:14.64" id="p466" end="00:24:18.60">I think your piping is definitely<br />better than mine, that's for sure.</p>
+      <p style="s2" begin="00:24:18.60" id="p467" end="00:24:21.36"><span tts:color="yellow">It is. </span>And you get<br />the really nice lemony, you know,</p>
+      <p style="s2" begin="00:24:21.36" id="p468" end="00:24:24.16">refreshing taste<br />that sort of rounds it off.</p>
+      <p begin="00:24:24.16" id="p469" end="00:24:26.52">Josh? <span tts:color="lime">Superb. </span>Yeah. <span tts:color="lime">Brilliant, yeah.</span></p>
+      <p style="s3" begin="00:24:26.52" id="p470" end="00:24:29.48">It's sharp and it's sweet<br />and it's subtle.</p>
+      <p style="s3" begin="00:24:29.48" id="p471" end="00:24:32.96">All that's missing<br />is a little bit of chilli with that.</p>
+      <p style="s3" begin="00:24:32.96" id="p472" end="00:24:34.84">Then you could really go...</p>
+      <p begin="00:24:34.84" id="p473" end="00:24:36.76"><span tts:color="yellow">No, it's absolutely beautiful.<br /></span><span tts:color="lime">Thank you.</span></p>
+      <p begin="00:24:36.76" id="p474" end="00:24:38.08">Well, Flora, I have to say,</p>
+      <p begin="00:24:38.08" id="p475" end="00:24:41.08">it's been an absolute pleasure<br />watching you in the tent.</p>
+      <p begin="00:24:41.08" id="p476" end="00:24:44.84">And as a thank you for being with us,<br />we've got a special cake to give you,</p>
+      <p begin="00:24:44.84" id="p477" end="00:24:47.56">which Josh<br />is just going to bring over.</p>
+      <p style="s1" begin="00:24:47.56" id="p478" end="00:24:50.64">That's one of MY facial expressions,<br />right there.</p>
+      <p begin="00:24:50.64" id="p479" end="00:24:53.08"><span tts:color="lime">Copyrighted that!<br /></span>He's nicked that off you.</p>
+      <p begin="00:24:53.08" id="p480" end="00:24:57.28">So, this is you with Mel here,<br />wearing your...</p>
+      <p begin="00:24:57.28" id="p481" end="00:25:01.00"><span tts:color="lime">Tuile bangles!<br /></span>Yes! Biscuits as bracelets.</p>
+      <p style="s1" begin="00:25:01.00" id="p482" end="00:25:02.60">Oh, that's great.</p>
+      <p begin="00:25:02.60" id="p483" end="00:25:07.92">So, ladies and gentlemen, please<br />give Flora a Great British sendoff.</p>
+      <p begin="00:25:07.92" id="p484" end="00:25:09.52">CHEERING</p>
+      <p begin="00:25:14.32" id="p485" end="00:25:18.52">So, next week, Nadiya, Tamal and Ian<br />will battle it out</p>
+      <p begin="00:25:18.52" id="p486" end="00:25:21.44">to be crowned<br />the Bake Off winner of 2015.</p>
+      <p begin="00:25:21.44" id="p487" end="00:25:22.84">But let's take a moment</p>
+      <p begin="00:25:22.84" id="p488" end="00:25:26.20">to remember the bakers<br />we've had to say goodbye to this year</p>
+      <p begin="00:25:26.20" id="p489" end="00:25:29.48">and thank them<br />for what they brought to the tent.</p>
+      <p style="s1" begin="00:25:42.28" id="p490" end="00:25:45.32">I've called it Purple Forest gateau,<br />cos I've used beetroot in it.</p>
+      <p style="s3" begin="00:25:51.44" id="p491" end="00:25:53.32">One minute!</p>
+      <p style="s3" begin="00:25:53.32" id="p492" end="00:25:54.88">There's one minute to go!</p>
+      <p style="s2" begin="00:26:04.80" id="p493" end="00:26:06.28">No...</p>
+      <p style="s1" begin="00:26:15.88" id="p494" end="00:26:17.24">Can be making a cake</p>
+      <p style="s1" begin="00:26:17.24" id="p495" end="00:26:20.36">and you can have a meat pie<br />by the time I've finished.</p>
+      <p begin="00:26:28.28" id="p496" end="00:26:30.32">RISING SLIDING WHISTLE</p>
+      <p style="s3" begin="00:26:30.32" id="p497" end="00:26:33.80">..Finished with<br />truffle-infused brioche bunnies,</p>
+      <p style="s3" begin="00:26:33.80" id="p498" end="00:26:37.12">covered them with<br />the maple syrup frosting, and...</p>
+      <p style="s3" begin="00:26:37.12" id="p499" end="00:26:38.80">crispy bacon.</p>
+      <p style="s3" begin="00:26:38.80" id="p500" end="00:26:40.56">It tastes amazing.</p>
+      <p begin="00:26:40.56" id="p501" end="00:26:42.20">FALLING SLIDING WHISTLE</p>
+      <p style="s2" begin="00:26:47.52" id="p502" end="00:26:50.00">I don't want to take it out,<br />because it's already in there.</p>
+      <p style="s3" begin="00:26:50.00" id="p503" end="00:26:51.68">Two minutes, bakers. Two minutes.</p>
+      <p style="s2" begin="00:26:51.68" id="p504" end="00:26:53.12">I'm taking it out.</p>
+      <p style="s3" begin="00:26:53.12" id="p505" end="00:26:54.84">OK, bakers, ten minutes left.</p>
+      <p style="s2" begin="00:26:56.44" id="p506" end="00:26:58.72">Faced now with a decision<br />to just abandon the box.</p>
+      <p begin="00:26:58.72" id="p507" end="00:27:01.56"><span tts:color="yellow">Three seconds to go, bakers.<br /></span><span tts:color="cyan">I'm going to abandon the box.</span></p>
+      <p style="s2" begin="00:27:05.28" id="p508" end="00:27:07.36"><span tts:color="lime">Icing. </span>Yeah.</p>
+      <p style="s2" begin="00:27:07.36" id="p509" end="00:27:10.32"><span tts:color="lime">It's yellow. </span>Yeah, I probably<br />left it in the oven too long.</p>
+      <p style="s1" begin="00:27:10.32" id="p510" end="00:27:11.72">Oven?</p>
+      <p style="s2" begin="00:27:12.92" id="p511" end="00:27:14.16">Yeah.</p>
+      <p style="s3" begin="00:27:27.32" id="p512" end="00:27:28.96">Do you want a hand, Alvin?</p>
+      <p style="s1" begin="00:27:34.88" id="p513" end="00:27:36.76">I think I'm going to freeze this...</p>
+      <p style="s1" begin="00:27:36.76" id="p514" end="00:27:38.12">Ah! Need another freezer.</p>
+      <p style="s1" begin="00:27:38.12" id="p515" end="00:27:39.28">Ahh!</p>
+      <p style="s1" begin="00:27:39.28" id="p516" end="00:27:41.64">65.3!</p>
+      <p begin="00:27:46.00" id="p517" end="00:27:48.88">APPLAUSE</p>
+      <p begin="00:27:54.28" id="p518" end="00:27:56.20">That's it for this week.</p>
+      <p begin="00:27:56.20" id="p519" end="00:27:58.88">Don't forget to keep sending us<br />pictures of your bakes,</p>
+      <p begin="00:27:58.88" id="p520" end="00:28:00.84">be they terrible or triumphant.</p>
+      <p begin="00:28:00.84" id="p521" end="00:28:02.52">Details below.</p>
+      <p begin="00:28:02.52" id="p522" end="00:28:04.24">A big thank you to Flora,</p>
+      <p begin="00:28:04.24" id="p523" end="00:28:07.44">to all our audience bakers<br />and to our celebrity panel.</p>
+      <p begin="00:28:07.44" id="p524" end="00:28:08.84">Tom Aikens.</p>
+      <p begin="00:28:10.60" id="p525" end="00:28:13.00">Danny Baker.</p>
+      <p begin="00:28:13.00" id="p526" end="00:28:15.08">And Josh Widdicombe.</p>
+      <p begin="00:28:15.08" id="p527" end="00:28:16.64">CHEERING</p>
+      <p begin="00:28:16.64" id="p528" end="00:28:19.76">See you all next week<br />for our final Extra Slice,</p>
+      <p begin="00:28:19.76" id="p529" end="00:28:22.64">when we'll be joined<br />by Paul Hollywood, Mary Berry</p>
+      <p begin="00:28:22.64" id="p530" end="00:28:26.52">and all 12 of this year's bakers,<br />including, of course, the winner.</p>
+      <p begin="00:28:26.52" id="p531" end="00:28:28.52">Until then, goodbye.</p>
+    </div>
+  </body>
+</tt>
